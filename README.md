@@ -1,2 +1,4 @@
 # Ez-Reader
-A chrome extension that bolds the first few letters on the screen to make reading easier.
+Ez Reader is an open-source Chrome extension that improves text readability by dynamically highlighting the initial characters of words. While it shares some similarities with tools like Bionic Reading, Enhanced Reading is a unique implementation developed entirely from scratch. The main goal of this project is to explore and experiment with different ways of improving online text readability and not to replicate or replace any existing products.
+
+
